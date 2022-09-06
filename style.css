@@ -103,10 +103,13 @@ body {
     padding: 2rem;
 }
 .buttons {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
     padding-left: 1rem;
     width: 100%;
     overflow-x: auto;
     white-space: nowrap;
+    height: 110%;
 }
 
 .categoryBtn {
